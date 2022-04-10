@@ -11,4 +11,4 @@
 - [双端队列](./queue/deque.py)
 
 #### 堆
-- [构建堆](./heap/)
+- [构建堆](./heap/build_heap.py)
