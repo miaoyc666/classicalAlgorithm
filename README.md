@@ -14,4 +14,4 @@
 - [构建堆](./heap/build_heap.py)
 
 #### 哈希问题
-- 均匀哈希
+- 均匀哈希hyperloglog
